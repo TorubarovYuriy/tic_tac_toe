@@ -1500,3 +1500,5 @@ test.py
 gameparts/__pycache__/__init__.cpython-311.pyc
 gameparts/__pycache__/exceptions.cpython-311.pyc
 gameparts/__pycache__/parts.cpython-311.pyc
+/file_actions.py
+/example.txt
